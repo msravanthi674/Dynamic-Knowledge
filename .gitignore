@@ -1,0 +1,7 @@
+.env
+data/uploads/*
+data/knowledge_base/*
+__pycache__/
+*.pyc
+.streamlit/
+.DS_Store
