@@ -1,0 +1,10 @@
+streamlit
+mistralai==0.4.2
+faiss-cpu
+PyYAML
+PyPDF2
+apscheduler
+requests
+python-dotenv
+mistral
+requests
